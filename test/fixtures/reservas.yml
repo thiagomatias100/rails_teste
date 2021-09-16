@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Lab: one
+  name: MyString
+  data: 2021-09-09
+  hora: 2021-09-09 14:38:15
+
+two:
+  Lab: two
+  name: MyString
+  data: 2021-09-09
+  hora: 2021-09-09 14:38:15
